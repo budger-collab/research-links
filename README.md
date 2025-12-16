@@ -16,7 +16,7 @@ Each category is maintained in a separate file for clarity.
 
 ---
 
-## Hidden Navigation for Googlebot
+## Navigation
 <div style="display:none">
   <!-- Links to all categories (.md files) for faster crawling -->
   <a href="./Finance.md">Finance & Accounting Resources</a>
