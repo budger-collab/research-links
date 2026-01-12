@@ -1,3 +1,8 @@
+---
+title: Game & Toys & kids
+description: Collection of articles, discussions about Game and kids. Guides, profiles, and tips for lifestyle improvement.
+---
+
 # Game & Toys & kids
 
 References to game news, toys and online discussions about kids.
