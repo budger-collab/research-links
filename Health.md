@@ -1,3 +1,8 @@
+---
+title: Health & Wellness Resources & Sleep
+description: Collection of articles, discussions about health, wellness, and sleep. Guides, profiles, and tips for lifestyle improvement.
+---
+
 # Health & Wellness Resources & sleep
 
 A collection of articles, discussions about sleep, and profiles related to health, wellness, and lifestyle topics.
