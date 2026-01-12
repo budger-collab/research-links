@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://budger-collab.github.io/research-links/sitemap.xml
