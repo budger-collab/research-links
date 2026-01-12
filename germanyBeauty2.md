@@ -1,3 +1,9 @@
+---
+title: Health & beauty part2
+description: Collection of articles, discussions about health and beauty (part2). Guides, profiles, and tips for lifestyle improvement.
+---
+
+
 # Health & beauty (part2)
 
 A collection of articles, discussions, and profiles related to health, beauty, and lifestyle topics .de
