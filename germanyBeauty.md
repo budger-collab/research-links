@@ -1,3 +1,8 @@
+---
+title: Health & beauty
+description: Collection of articles, discussions about health and beauty. Guides, profiles, and tips for lifestyle improvement.
+---
+
 # Health & beauty
 A collection of articles, discussions, and profiles related to health, beauty, and lifestyle topics .de
 
