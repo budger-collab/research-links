@@ -1,3 +1,7 @@
+---
+title: Software & app
+description: Collection of articles, discussions about Software and app. Guides, profiles, and tips for lifestyle improvement.
+---
 # Software & app
 
 References to software news, apps and online discussions pest control software for small business
