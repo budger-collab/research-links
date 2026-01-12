@@ -1,3 +1,8 @@
+---
+title: plumbing
+description: Collection of articles, discussions about plumbing. Guides, profiles, and tips for lifestyle improvement.
+---
+
 # Online Profiles & blogs
 
 Public user profiles and blog discussion pages from various platforms. 
