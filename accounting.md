@@ -1,3 +1,7 @@
+---
+title: Finance & Accounting
+description: Collection of articles, discussions about Finance and Accounting. Guides, profiles, and tips for lifestyle improvement.
+---
 # Finance & Accounting
 
 References to Finance news, accounting and online discussions about it.
