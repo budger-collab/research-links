@@ -1,3 +1,8 @@
+---
+title: Finance & Loans
+description: Curated online resources for finance, loans, and accounting topics. Articles, discussions, and tools for research and reference.
+---
+
 # Finance & Loans
 
 References to Finance news, loans and online discussions about it.
